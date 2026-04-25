@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+.env
+.venv/
+venv/
+
+data/
+models/
+outputs/
+checkpoints/
+*.jsonl
+*.csv
+*.pkl
+*.pt
+*.safetensors

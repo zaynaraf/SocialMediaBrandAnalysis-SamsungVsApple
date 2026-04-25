@@ -1,0 +1,16 @@
+praw
+prawcore
+pandas
+numpy
+langdetect
+google-generativeai
+torch
+transformers
+accelerate
+scikit-learn
+nltk
+tqdm
+bertopic
+sentence-transformers
+matplotlib
+seaborn
